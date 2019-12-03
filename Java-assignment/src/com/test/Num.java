@@ -7,7 +7,7 @@ public class Num {
 
 	public static void main(String[] args) {
 	
-     Number.my();
+     Number.my();//Calling Number class my method for finding greatest number
 	}
 
 }
